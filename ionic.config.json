@@ -1,0 +1,7 @@
+{
+  "name": "Work4App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
